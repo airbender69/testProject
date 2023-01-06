@@ -4,25 +4,14 @@
 }
 body{
     background-color:grey ;
-
-}
-.container{
-    width: 100%;
-    background-color: black;
-}
-.container .box{
-    width: 400px;
-    height: 400px;
-    margin-left: 200px;
-
-    
 }
 
-.container .box .image img{
-    background-size: contain;
-    
-
+.my-column{
+    background-color: #000;
+    text-align: center;
+    min-height: 100px;
+    margin-bottom: 30px;
+    color: red;
 }
-
 
 
